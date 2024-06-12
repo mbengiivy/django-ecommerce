@@ -1,4 +1,4 @@
-##GIT AND GITHUB ESSENTIALS TRAINING
+## GIT AND GITHUB ESSENTIALS TRAINING
 
 ## This is a forked repository where I was able to do the following:
  1. Create a fork from the original
