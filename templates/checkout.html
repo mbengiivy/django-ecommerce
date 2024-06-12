@@ -12,7 +12,7 @@
             <form method="POST" class="card-body">
               {% csrf_token %}
 
-              <h3>Shipping address</h3>
+              <h3>Shipping add:</h3>
 
               <div class='hideable_shipping_form'>
 
@@ -35,7 +35,7 @@
                     </div>
                   </div>
                   <div class="col-lg-4 col-md-6 mb-4">
-                    <label for="shipping_zip">Zip</label>
+                    <label for="shipping_zip">Zip code:</label>
                     <input type='text' placeholder='Zip code' id='shipping_zip' name='shipping_zip' class='form-control' />
                     <div class="invalid-feedback">
                       Zip code required.
