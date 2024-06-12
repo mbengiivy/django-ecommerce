@@ -22,7 +22,7 @@
 2. I had to use simple branch names that related to the function of the branch
 
 
-##Open source repository that I have explored:
+## Open source repository that I have explored:
 https://github.com/opensourcepos/opensourcepos/issues/4008
 
 I gave a suggestion, to introduce dark mode for the ecommerce website
